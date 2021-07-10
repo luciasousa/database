@@ -1,0 +1,12 @@
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\bin\Debug\AulaBD1.exe.config
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\bin\Debug\AulaBD1.exe
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\bin\Debug\AulaBD1.pdb
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\bin\Debug\AulaBD1.xml
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\obj\Debug\AulaBD1.vbprojAssemblyReference.cache
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\obj\Debug\AulaBD1.Form1.resources
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\obj\Debug\AulaBD1.Resources.resources
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\obj\Debug\AulaBD1.vbproj.GenerateResource.cache
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\obj\Debug\AulaBD1.vbproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\obj\Debug\AulaBD1.exe
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\obj\Debug\AulaBD1.xml
+C:\Users\User\Dropbox\My PC (DESKTOP-QQDL9LU)\Desktop\uni\Ano3\Semestre2\BD\P\Aula01\AulaBD1\AulaBD1\obj\Debug\AulaBD1.pdb
